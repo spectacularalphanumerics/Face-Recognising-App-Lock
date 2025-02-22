@@ -1,6 +1,6 @@
 # Face-Recognising-App-Lock
 
-A test of mine, using face_recognition from ageitgey, no gurantees it runs on anyone else's system and this is a slightly outdated version. 
+A test of mine, using [face_recognition](https://github.com/ageitgey/face_recognition), no gurantees it runs on anyone else's system and this is a slightly outdated version. 
 
 It works by taking an image using the primary webcam when one of the listed applications is opened, if the face of the user is not recognised as being on the authorised list it will shut down the program and store the image taken of the person who tried to access it.
 Detects opened programs every 0.5s, might not work this way in which case you'll have to remove the time.sleep() and cope with the performance loss
