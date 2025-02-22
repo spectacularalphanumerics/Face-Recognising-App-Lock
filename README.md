@@ -7,7 +7,8 @@ Detects opened programs every 0.5s, might not work this way in which case you'll
 
 There are a million improvements to do and some I have done but not uploaded, if you want to use it or update it feel free.
 
-TODO//
+
+## TODO
 - config.json to store paths/apps etc
 - Multiple apps not just one  (implemented but not on this version)
 - Certain authorised users can access only certain apps (rn lets you access all of them if on authorised list)
