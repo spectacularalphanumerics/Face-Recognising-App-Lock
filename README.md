@@ -1,7 +1,7 @@
 # Face-Recognizing App Lock
 
 A Python-based security tool that uses facial recognition to restrict access to specific applications. Unauthorized users are logged, and the application is shut down.
-.
+
 ## Overview
 Face-Recognizing App Lock is a Python project designed to enhance system security by restricting access to specific applications based on facial recognition. 
 
