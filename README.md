@@ -12,5 +12,5 @@ This project is a proof of concept and may require adjustments to work on differ
 - **Application Monitoring**: Detects when specific applications are opened.
 - **Unauthorized Access Prevention**: Automatically shuts down applications if the user is not authorized.
 - **Image Logging**: Saves an image of unauthorized users for security purposes.
-- **Configurable**: Supports multiple applications and authorized users.
+- **Configurable**: Supports multiple applications and authorized users..
 
